@@ -1,0 +1,11 @@
+// ELEMENT BY ID (single object)
+
+//ELEMENTS BY TAG NAME (collection)
+
+//ELEMENTS BY NAME (collection)
+
+//ELEMENTS BY CLASS NAME (collection)
+
+//QUERY SELECTOR ALL (collection)
+
+//++++++++++++++++++ COMBINATIONS +++++++++++++++++++++
